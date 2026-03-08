@@ -1,3 +1,4 @@
+
 body {
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
@@ -48,8 +49,4 @@ textarea {
     cursor: pointer;
     font-weight: bold;
     margin-top: 10px;
-}
-
-#submitBtn:hover {
-    background-color: #264d3f;
 }
